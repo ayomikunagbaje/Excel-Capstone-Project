@@ -114,6 +114,12 @@ This further buttress the analysis, it is seen that the least revenue generating
 The dashboard of the analysis highlighting the total revenue, highest revenue by product and total profit, with corresponding slicers.
 The product by category slicer was required to help scale through the report on how diferent products performed in different states, months, by sales person etc.
 
+
+
+## Conclusion and Recommendations
+The analysis clearly portrayed the decorative product category as the predominant items preferred by customers, while the clock of the accessories category standout as the most purchased item in all the states.
+I will recommend the Sales Director pay more attention on the availability of the above mentioned products in the top highest states which are California, Texas, Illinois, Florida And New York as these five states make up 51% of the entire revenue for the period in view. This does not interpret to not making the rest of the products available in the other states, more attention should just be given to the above mentioned states so they do not run out of products, eventually affecting sales and revenue.
+
 For better insight into the analysis and visualization of this project, click [here](Raw_csv_file.xlsx).
 ---
 
