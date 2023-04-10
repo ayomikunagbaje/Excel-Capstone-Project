@@ -114,7 +114,7 @@ This further buttress the analysis, it is seen that the least revenue generating
 The dashboard of the analysis highlighting the total revenue, highest revenue by product and total profit, with corresponding slicers.
 The product by category slicer was required to help scale through the report on how diferent products performed in different states, months, by sales person etc.
 
-for better insight into the analysis and visualization of this project, click [here](Raw_csv_file.xlsx).
+For better insight into the analysis and visualization of this project, click [here](Raw_csv_file.xlsx).
 ---
 
 I am keen to growth and value creation, hence my penchant for continous and electic learning. I intend to help solve business and world problems as I evolve in this field.  
