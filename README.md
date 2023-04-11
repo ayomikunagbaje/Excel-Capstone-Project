@@ -123,6 +123,6 @@ I will recommend the Sales Director pay more attention on the availability of th
 For better insight into the analysis and visualization of this project, click [here](Raw_csv_file.xlsx).
 ---
 
-I am keen to growth and value creation, hence my penchant for continous and eclectic learning. I intend to help solve business and world problems as I evolve in this field.  
+I am keen on growth and value creation, hence my penchant for continous and eclectic learning. I intend to help solve business and world problems as I evolve in this field.  
 
 
